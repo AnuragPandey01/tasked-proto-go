@@ -1,4 +1,4 @@
-module github.com/AnuragPandey01/tasked-proto
+module github.com/AnuragPandey01/tasked-proto-go
 
 go 1.24.0
 
